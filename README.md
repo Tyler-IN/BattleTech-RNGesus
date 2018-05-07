@@ -15,8 +15,11 @@ The RNG wilst granteth and denyeth, the RNG wilst giveth and taketh.
 Render yourself unto the mercy of the RNG pure and true. :balance_scale:
 
 ## Table of Contents
-1. [Installing](#installing)
-1. [The Future](#the-future)
+1. [Foreword](#foreward)
+2. [Installing](#installing)
+3. [The Future](#the-future)
+
+## Foreword
 
 BattleTech has a good and just MurmurHash3 based RNG,
 but corrections are applied to your rolls, meaning the
