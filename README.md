@@ -16,7 +16,7 @@ Render yourself unto the mercy of the RNG pure and true. :balance_scale:
 
 ## Table of Contents
 1. [Installing](#Installing)
-1. [The Future](#The Future)
+1. [The Future](#The-Future)
 
 BattleTech has a good and just MurmurHash3 based RNG,
 but corrections are applied to your rolls, meaning the
